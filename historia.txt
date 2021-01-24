@@ -4,3 +4,5 @@ Realizare la prueba de la Version 2 de este archivo
 Hoy hablaremos de su vida y obra maestra
 
 Mañana nos enfocaremos en la vida laboral
+
+A probar el git reset HEAD
